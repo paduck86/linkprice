@@ -1,1 +1,1 @@
-*/5 * * * * /usr/src/app/ln-alarm.sh
+*/10 * * * * /usr/src/app/ln-alarm.sh
